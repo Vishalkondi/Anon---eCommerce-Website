@@ -21,6 +21,8 @@ Fully animated banners and promotional areas
 
 🖥 Demo
 Desktop View
+![Screenshot (67)](https://github.com/user-attachments/assets/faa95590-c29f-4d2b-8d11-885399201a20)
+
 
 
 Mobile View
@@ -36,8 +38,7 @@ Clone the repository using the command line:
 bash
 Copy
 Edit
-# Linux and macOS
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+
 
 # Windows
 git clone https://github.com/codewithsadee/anon-ecommerce-website.git
