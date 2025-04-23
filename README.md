@@ -1,8 +1,5 @@
 Anon - eCommerce Website
 
-
-
-
 📌 Project Description
 Anon is a clean, modern, and fully responsive eCommerce website built using HTML, CSS, and JavaScript. It’s designed for optimal viewing across all devices with features like product listings, categories, cart system, and live purchase alerts.
 
