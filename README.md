@@ -1,44 +1,50 @@
-# Anon - An eCommerce Website
+Anon - eCommerce Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
-## Demo
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+📌 Project Description
+Anon is a clean, modern, and fully responsive eCommerce website built using HTML, CSS, and JavaScript. It’s designed for optimal viewing across all devices with features like product listings, categories, cart system, and live purchase alerts.
 
-## Prerequisites
+💡 Features
+Trending and featured product sections
 
-Before you begin, ensure you have met the following requirements:
+Responsive design for all screen sizes
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+Interactive user interface
 
-## Installing Anon
+Product search functionality
 
-To install **Anon**, follow these steps:
+Live popup notifications for recent purchases
 
-Linux and macOS:
+Fully animated banners and promotional areas
 
-```bash
+🖥 Demo
+Desktop View
+
+
+Mobile View
+
+
+🚀 Getting Started
+Prerequisites
+Make sure you have Git installed.
+
+Installation
+Clone the repository using the command line:
+
+bash
+Copy
+Edit
+# Linux and macOS
 sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
 
-Windows:
-
-```bash
+# Windows
 git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
+After cloning, navigate into the project directory and open index.html in your browser.
 
-## Contact
+📬 Contact
+For feedback or inquiries, feel free to reach out via Twitter.
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-This project is **free to use** and does not contains any license.
+🧾 License
+This project is free to use and does not contain any license.
